@@ -44,7 +44,6 @@ app.get('/plants', async (req, res) => {
     }
 });
 
-
 // get a plant from the database
 
 // PLANTS CARE PLAN //
